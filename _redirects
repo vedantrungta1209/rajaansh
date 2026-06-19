@@ -1,0 +1,2 @@
+/admin/* https://admin.rajaansh.com/admin/:splat 302
+/admin  https://admin.rajaansh.com/admin/  302
